@@ -1,0 +1,10 @@
+Package: com.imnotsatan.randomtimetext
+Name: Random Time Text
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Random Time
+Maintainer: ImNotSatan\Test
+Author: ImNotSatan\Test
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 372

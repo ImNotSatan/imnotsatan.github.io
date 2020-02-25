@@ -1,16 +1,18 @@
 Package: com.imnotsatan.randomtimetext
-Name: Random Time
+Name: Random Time Text
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Random Time
 Maintainer: ImNotSatan\Test
 Author: ImNotSatan\Test
 Section: Tweaks
-Version: 0.0.2-1+debug
-Installed-Size: 292
-Filename: debs/com.imnotsatan.randomtimetext_0.0.2-1+debug_iphoneos-arm.deb
-Depiction: https://imnotsatan.github.io/package/com.imnotsatan.randomtimetext.html
-Size: 36610
-MD5sum: 11c1674ec1d5d8525989b5d4610e4dec
-SHA1: c90e1b557741c4799c4edc25adfb84e1b75d688a
-SHA256: 0d7abea96f282059ac8a1dedda9c0183ea175e5b950a466f305a224132554f87
+Version: 0.0.3
+Installed-Size: 372
+Filename: debs/com.imnotsatan.randomtimetext_0.0.3_iphoneos-arm.deb
+Depiction: depictions/com.imnotsatan.randomtimetext.html
+Icon: icons/com.imnotsatan.randomtimetext.png
+Size: 25652
+MD5sum: c101edacc97cb62ee90f29ec2b34a342
+SHA1: fa3774578e5ae89495d8aa227b675173bda63af1
+SHA256: 5cc3fdfbff57028d6d3281ee48db010039e87c5365a4a3332800c69f1a92b5b7
+SHA521: cb8c2f7f78b3c09c330ec1c73f49b461b86201321e60ac0f1d45e697f9d0e290a438e2ba002da509f70d688b28d224596b5b9aedaa0986b9442124aab7b6a497
