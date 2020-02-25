@@ -1,8 +1,8 @@
-Origin: Repo Manager Deluxe Default Origin
-Label: ImNotSatan's Repo
+Origin: ImNotSatan's Repo
+Label: IMNOTSATAN's LABEL
 Suite: stable
 Version: 1.0
 Codename: iospackagemanagerdeluxe
 Architectures: iphoneos-arm
 Components: main
-Description: Made with Repo Manager Deluxe by ImNotSatan
+Description: This repo was made with Repo Manager Deluxe by ImNotSatan
