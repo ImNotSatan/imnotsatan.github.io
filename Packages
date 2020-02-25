@@ -9,6 +9,7 @@ Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 292
 Filename: debs/com.imnotsatan.randomtimetext_0.0.2-1+debug_iphoneos-arm.deb
+Depiction: https://imnotsatan.github.io/package/com.imnotsatan.randomtimetext/
 Size: 36610
 MD5sum: 11c1674ec1d5d8525989b5d4610e4dec
 SHA1: c90e1b557741c4799c4edc25adfb84e1b75d688a
