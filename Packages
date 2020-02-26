@@ -9,10 +9,29 @@ Section: Tweaks
 Version: 0.0.3
 Installed-Size: 372
 Filename: debs/com.imnotsatan.randomtimetext_0.0.3_iphoneos-arm.deb
-Depiction: depictions/com.imnotsatan.randomtimetext.html
-Icon: icons/com.imnotsatan.randomtimetext.png
+Depiction: https://imnotsatan.github.io/depictions/com.imnotsatan.randomtimetext.html
+Icon: https://imnotsatan.github.io/icons/com.imnotsatan.randomtimetext.png
 Size: 25652
 MD5sum: c101edacc97cb62ee90f29ec2b34a342
 SHA1: fa3774578e5ae89495d8aa227b675173bda63af1
 SHA256: 5cc3fdfbff57028d6d3281ee48db010039e87c5365a4a3332800c69f1a92b5b7
 SHA521: cb8c2f7f78b3c09c330ec1c73f49b461b86201321e60ac0f1d45e697f9d0e290a438e2ba002da509f70d688b28d224596b5b9aedaa0986b9442124aab7b6a497
+
+Package: com.imnotsatan.randomtimetext
+Name: Random Time Text
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Random Time
+Maintainer: ImNotSatan\Test
+Author: ImNotSatan\Test
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 352
+Filename: debs/com.imnotsatan.randomtimetext_0.0.4_iphoneos-arm.deb
+Depiction: https://imnotsatan.github.io/depictions/com.imnotsatan.randomtimetext.html
+Icon: https://imnotsatan.github.io/icons/com.imnotsatan.randomtimetext.png
+Size: 25824
+MD5sum: 654d00519c6cdc9aa5bebe79ce131a17
+SHA1: b2e2e47c3d0f17e3194f355bc950c90ba4904cd2
+SHA256: 18330228bd7fccd06e693975ea3209f1dc2c03ca54f3524ada77c2486a2b61d8
+SHA521: 7262a5280e1d624856d3877852cd3b3e2d89ebfe61300b9bdf9810b1ec4186ca838242de3cc0df71df26dc81bdfcd13b38120a922bfd0d5042eb3cb5ff1a443a
