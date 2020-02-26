@@ -68,8 +68,8 @@ Installed-Size: 352
 Filename: debs/com.imnotsatan.randomtimetext_0.0.6_iphoneos-arm.deb
 Depiction: https://imnotsatan.github.io/depictions/com.imnotsatan.randomtimetext.html
 Icon: https://imnotsatan.github.io/icons/com.imnotsatan.randomtimetext.png
-Size: 26306
-MD5sum: 0892e3a344e845d00cc55c697cd902ae
-SHA1: c56dbaee2c0a52aa967f7752766ef80652ef0622
-SHA256: afab521f3a9615bab2c4fb677c8528db8ce73b6ff4153ea39f355cd8ad520969
-SHA521: 03edeed6633d9ebd14e052d580e04d326bf2967a64e64346c07580f11389621f423133b0473a99290311e4f39eeed0caa78a3e74f56d9fded7d16201af70b1c9
+Size: 26516
+MD5sum: 70e44e1a6d1a18cf527b7d2f91b73712
+SHA1: a42830c164665551c6aa44fab61e7e91308c671e
+SHA256: 9821966b233cf8054ca2476c0545c6d34c0c6a4eaaebebde77ed4e64294a50f6
+SHA521: c56151f3cea51c6366a912b87959055091da63d3fb902ec7e4db721718266c4d5a18a00479360c0b8072bc53b39cbbe838aa3aeec2466492a45225c3808b846c
