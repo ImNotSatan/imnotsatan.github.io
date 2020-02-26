@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
 		<version>0.0.4</version>
+		<change>Compiled for arm64e</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
 		<change>Initial release</change>
 	</changes>
 </changelog>
