@@ -19,19 +19,19 @@ SHA521: cb8c2f7f78b3c09c330ec1c73f49b461b86201321e60ac0f1d45e697f9d0e290a438e2ba
 
 Package: com.imnotsatan.randomtimetext
 Name: Random Time Text
-Depends: mobilesubstrate
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Description: Random Time
 Maintainer: ImNotSatan\Test
 Author: ImNotSatan\Test
 Section: Tweaks
 Version: 0.0.4
-Installed-Size: 352
+Installed-Size: 372
 Filename: debs/com.imnotsatan.randomtimetext_0.0.4_iphoneos-arm.deb
 Depiction: https://imnotsatan.github.io/depictions/com.imnotsatan.randomtimetext.html
 Icon: https://imnotsatan.github.io/icons/com.imnotsatan.randomtimetext.png
-Size: 25824
-MD5sum: 654d00519c6cdc9aa5bebe79ce131a17
-SHA1: b2e2e47c3d0f17e3194f355bc950c90ba4904cd2
-SHA256: 18330228bd7fccd06e693975ea3209f1dc2c03ca54f3524ada77c2486a2b61d8
-SHA521: 7262a5280e1d624856d3877852cd3b3e2d89ebfe61300b9bdf9810b1ec4186ca838242de3cc0df71df26dc81bdfcd13b38120a922bfd0d5042eb3cb5ff1a443a
+Size: 25894
+MD5sum: 99815cddb223d6ba09ef3ebe73fbc67f
+SHA1: a10532364b37da2cffd71972e6f7bcb058964f6f
+SHA256: 68c406d26609732ca88fd2c454384a48910418fe4afba0665dc7a10025c742dc
+SHA521: 7ad96f70eb710969260963251b70888d4dc2271b711ae8043a436f9e6215bd4dde3561106c5eaac1f1ac3fb29bbc5c5bd49aa8cd0928735ae6163d621425cee0
